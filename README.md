@@ -7,4 +7,3 @@ Kelas   : B
 Avatar  :  
 <img src= "image/harry.png" width="100">
 
-[my project](https://arcg.is/jbbSq)
