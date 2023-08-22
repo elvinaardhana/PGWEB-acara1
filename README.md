@@ -8,5 +8,6 @@ NIM     : 22/4999632/SV/21348
 Kelas   : B   
 
 Avatar  :  
+
 <img src= "image/harry.png" width="100">
 
